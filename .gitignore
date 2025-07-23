@@ -1,0 +1,17 @@
+# Entornos virtuales
+proyecto_venv/
+.venv/
+
+# Archivos de Python compilados
+__pycache__/
+*.pyc
+
+# Archivos de configuración de Jupyter
+.ipynb_checkpoints/
+
+# Archivos de logs y temporales
+*.log
+*.tmp
+
+# Datos sensibles o grandes (modifica según tus necesidades)
+data/
