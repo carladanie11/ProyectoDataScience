@@ -15,3 +15,5 @@ __pycache__/
 
 # Datos sensibles o grandes (modifica según tus necesidades)
 data/
+
+notebooks/*.parquet
