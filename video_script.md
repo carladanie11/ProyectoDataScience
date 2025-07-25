@@ -10,7 +10,7 @@
 El dataset contiene 100,000 registros con 13 variables clave incluyendo coordenadas, distancias, tiempos, y revenue."
 
 ## SOLUCIÓN TÉCNICA (90 seg)
-"Desarrollé un modelo RandomForest optimizado para hardware limitado que logra:
+"Desarrollé un modelo RandomForest optimizado que logra:
 - R² de 1.000 - prácticamente perfecto
 - Error absoluto medio de 0.00 minutos  
 - Procesamiento en tiempo real
