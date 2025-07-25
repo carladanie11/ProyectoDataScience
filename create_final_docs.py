@@ -64,7 +64,7 @@ video_script = f"""
 # 🎬 SCRIPT PARA VIDEO PRESENTACIÓN (≤5 min)
 
 ## INTRODUCCIÓN (30 seg)
-"Hola, soy Carla Loredo. Les presento mi solución al desafío técnico de Data Scientist para el sector logístico. He desarrollado un sistema predictivo de ETA usando datos reales de 100,000 viajes de taxi de Nueva York."
+"Hola, soy Data Scientist. Minombre es Carla Loredo. Les presento mi solución al desafío técnico de Data Scientist para el sector logístico. He desarrollado un sistema predictivo de ETA usando datos reales de 100,000 viajes de taxi de Nueva York."
 
 ## PROBLEMA Y DATASET (60 seg)
 "El reto era crear un modelo predictivo relevante para logística. Seleccioné NYC Taxi Data porque representa perfectamente los desafíos urbanos: predicción de tiempos, optimización de rutas, y análisis de demanda temporal.
